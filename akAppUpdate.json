@@ -1,4 +1,5 @@
 {
-"newVersion": "1.0.1",
-"apkUrl": ""
+  "newVersion": "1.2.3",
+  "versionNotes": "New features and bug fixes",
+  "apkUrl": "https://example.com/app.apk"
 }
